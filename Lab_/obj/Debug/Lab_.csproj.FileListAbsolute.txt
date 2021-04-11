@@ -1,0 +1,10 @@
+D:\4 курс (2)\Основы бизнеса и права в информаионных технологиях\Lab_\Lab_\bin\Debug\Lab_.exe.config
+D:\4 курс (2)\Основы бизнеса и права в информаионных технологиях\Lab_\Lab_\bin\Debug\Lab_.exe
+D:\4 курс (2)\Основы бизнеса и права в информаионных технологиях\Lab_\Lab_\bin\Debug\Lab_.pdb
+D:\4 курс (2)\Основы бизнеса и права в информаионных технологиях\Lab_\Lab_\obj\Debug\Lab_.csprojAssemblyReference.cache
+D:\4 курс (2)\Основы бизнеса и права в информаионных технологиях\Lab_\Lab_\obj\Debug\Lab_.Form1.resources
+D:\4 курс (2)\Основы бизнеса и права в информаионных технологиях\Lab_\Lab_\obj\Debug\Lab_.Properties.Resources.resources
+D:\4 курс (2)\Основы бизнеса и права в информаионных технологиях\Lab_\Lab_\obj\Debug\Lab_.csproj.GenerateResource.cache
+D:\4 курс (2)\Основы бизнеса и права в информаионных технологиях\Lab_\Lab_\obj\Debug\Lab_.csproj.CoreCompileInputs.cache
+D:\4 курс (2)\Основы бизнеса и права в информаионных технологиях\Lab_\Lab_\obj\Debug\Lab_.exe
+D:\4 курс (2)\Основы бизнеса и права в информаионных технологиях\Lab_\Lab_\obj\Debug\Lab_.pdb
